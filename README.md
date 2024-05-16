@@ -47,10 +47,11 @@ Publish the website in the LocalHost.
              margin-left: auto;
              margin-right: auto ;
              padding: 20px;
-             background-image: url('bg.png');
-             background-position: center;
+             background-image: url('asusas.png');
+             background-position:unset;
              background-color: black;
              background-repeat: no-repeat;
+             background-size: cover;
          }
          .toptext{
              color:white;
@@ -143,7 +144,7 @@ img {
                <h3 class="sub-text">&nbsp;&nbsp;&nbsp;Develop future-proof responsive websites</h3>
                     <h3 class="sub-text">&nbsp;&nbsp;&nbsp;using the latest HTML5 and CSS designs</h3>
                     <div class="footer">
-                        <h2 class="edition">&nbsp;&nbsp;Third Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="pic.jpg"></h2>
+                        <h2 class="edition">&nbsp;&nbsp;Third Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="image.png" style="border-radius: 50%;"></h2>
                       
                         <div class="bottomhr"><hr></div>
                     <div class="author"><h3>&nbsp;&nbsp;Ben Frain &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Packt></h3></div>
@@ -156,6 +157,7 @@ img {
 ```
 
 ## OUTPUT:
+![Screenshot 2024-05-16 094733](https://github.com/Isreal129/EX6WEB/assets/125784931/995a1ee0-7b92-43e8-8168-e234df4f2fae)
 
 
 ## RESULT:
